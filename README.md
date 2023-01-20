@@ -97,7 +97,15 @@ Trabajando de forma remota como desarrollador de software full stack
   
   <h3 align="left">Informacion de contacto:</h3>
   
-  Linkedin
+  <a href="https://github.com/wsanabria22" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/william_sanabri" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/william-sanabria-aa9a10262" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
   
   email: william.sanabriap@gmail.com
 
