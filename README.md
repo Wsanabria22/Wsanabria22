@@ -1,30 +1,31 @@
-### Hi there 👋
+### Hola! Soy William Sanabria
 
-Hola! Soy William Sanabria
+Ingeniero Informático con 14 años de experiencia laboral. Durante ellos he adaquirido habilidades técnicas en
+- Desarrollo de software
+- Administración de bases de datos y aplicaciones
+- Dirección de proyectos 
 
-Soy ingeniero Informático con 14 años de experiencia laboral. Durante ellos he desempeñado varias posciones que me han permitido proveer servicios y solucones informaticas desde desarrollar aplicaciones, mantenerlas y aministrarlas, hasta efectuar cambios de tecnologicos totales en organizaciones.
-He adaquirido habilidades técnicas en desarrollo de software, administración de bases de datos y aplicaciones y dirección de proyectos. 
-Tambien he adquido habilidades blandas en areas como el trabajo en equipo. liderazgo, comunicacion asertiva, obtencion de resultados y manejo de negociaciones, entre otras.
+Tambien he adquirido habilidades blandas en areas como:
+- Trabajo en equipo. 
+- Liderazgo
+- Comunicacion asertiva
+- Obtencion de resultados 
 
-Mi experiencia y conocimientos en temas informáticos y de proyectos, me han llevado a entender claramente el funcionamiento de diferentes organizaciones y para proveer soluciones tecnológicas que optimizan recursos y procesos, generando valor agregado para todos los interesados.
+<h3 align="left">Servicios ofrecidos:</h3> 
+Proveer soluciones tecnológicas que optimizan recursos y procesos, generando valor agregado para la organizacion y demas partes interesadas.
+Trabajando de forma remota como desarrollador de software full stack 
 
-Mis objetivos ahora están relacionados con trabajar de forma remota como desarrollador de software full stack, para lo cual adelante estudios en desarrollo FullStack en el BootCamp Soy Henry de Argentina, donde amplié mis conocimiento en tecnoloigas como Javascript – React – Redux - Nodejs – Css – Html. 
-
-He consturido ya mis primeras dos aplicaciones, una apliacacion pera realizar ecommerce y una aplicacion para consultar todo lo relacionado con video juegos y las diferentes plataformas en que se encuentran.
-
-Las tecnologias -lenguajes - librerias - frameworks que utilizo para el desarrollo son:
-  - Javascript
-  - React
-  - Nodejs
-  - Redux
-  - Express
-  - PostgreSQL
-  - Seuelize
-  - Git
+<hr>
+<h3 align="left">Proyectos Desarrollados :</h3> 
+  <h4> - ecommerce </h4>
+  <h4> - visualizador de video juegos </h4>
+<hr>
+<h3 align="left">Tecnologias y Herramientas que utilizo:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
   
+<hr>
   
-  
-  Informacion de contacto:
+  <h3 align="left">Informacion de contacto:</h3>
   
   Linkedin
   
