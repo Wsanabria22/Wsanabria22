@@ -89,19 +89,19 @@ Trabajando de forma remota como desarrollador de software full stack
 <tr>
   <td align="center" width="96">
      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"        width="48" height="48"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="webpack"        width="48" height="48"/> 
      </a> 
      <br>NextJS
   </td>
   <td align="center" width="96">
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"        width="48" height="48"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="webpack"        width="48" height="48"/> 
      </a> 
      <br>MongoDB
   </td>
   <td align="center" width="96">
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"        width="48" height="48"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="webpack"        width="48" height="48"/> 
      </a> 
      <br>TypeScript
   </td>
