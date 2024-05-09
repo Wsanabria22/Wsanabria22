@@ -34,7 +34,7 @@ Trabajando de forma remota como desarrollador de software full stack
   </td>
   <td align="center" width="96">
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="48" height="48"/> 
     </a> 
     <br>express
   </td>
